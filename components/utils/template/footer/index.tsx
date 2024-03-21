@@ -1,5 +1,4 @@
-import Link from "next/link";
-import { FaWhatsapp, FaGithub, FaInstagram, FaLinkedin } from "react-icons/fa";
+import { FaWhatsapp, FaInstagram, FaLinkedin } from "react-icons/fa";
 
 import { RiCopyrightFill } from "react-icons/ri";
 
